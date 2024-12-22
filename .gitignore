@@ -1,5 +1,2 @@
-# Ignore all folders
 data/
-
-# Except the results folder
 results/
