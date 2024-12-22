@@ -2,4 +2,4 @@
 data/
 
 # Except the results folder
-!results/
+results/
